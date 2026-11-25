@@ -1,0 +1,1135 @@
+1
+00:00:00,250 --> 00:00:04,089
+Friday, the eighteenth of
+January, two thousand eight.
+
+2
+00:00:04,109 --> 00:00:07,600
+La Défense, the business
+district just outside Paris.
+
+3
+00:00:08,589 --> 00:00:13,290
+Inside one of France's biggest banks, the
+people who check the traders have found
+
+4
+00:00:13,310 --> 00:00:15,019
+something they cannot explain.
+
+5
+00:00:16,032 --> 00:00:21,101
+A trade on one desk is supposed to be
+backed by a large bank on the other side.
+
+6
+00:00:21,932 --> 00:00:24,161
+There is even an e-mail confirming it.
+
+7
+00:00:25,071 --> 00:00:27,241
+The e-mail does not look right.
+
+8
+00:00:28,192 --> 00:00:33,201
+On Saturday, the large bank in question
+says it has never heard of these trades.
+
+9
+00:00:34,252 --> 00:00:38,821
+That same day, the trader who entered
+them admits that he made them up.
+
+10
+00:00:39,655 --> 00:00:44,365
+On Sunday afternoon, the bank finally
+adds up what he has been hiding.
+
+11
+00:00:45,256 --> 00:00:50,305
+It is a bet on the stock market
+worth about fifty billion euros.
+
+12
+00:00:51,444 --> 00:00:54,954
+That is more than the whole bank
+is worth on the stock exchange.
+
+13
+00:00:56,081 --> 00:00:58,331
+The trader is thirty-one years old.
+
+14
+00:00:58,861 --> 00:01:00,971
+His name is Jérôme Kerviel.
+
+15
+00:01:01,740 --> 00:01:07,291
+His pay, salary and bonus together, is
+under a hundred thousand euros a year.
+
+16
+00:01:08,427 --> 00:01:13,257
+Getting rid of his bet will cost the
+bank four point nine billion euros.
+
+17
+00:01:14,456 --> 00:01:19,746
+Two years later, a court in Paris
+orders him to pay all of it back.
+
+18
+00:01:20,876 --> 00:01:24,606
+French reporters work out how long
+that would take on his salary.
+
+19
+00:01:25,436 --> 00:01:30,526
+One hundred seventy-seven thousand,
+five hundred and thirty-six years.
+
+20
+00:01:31,677 --> 00:01:36,487
+And six years after that, another
+court cuts the bill to one million.
+
+21
+00:01:37,707 --> 00:01:42,147
+This is how a debt of almost five billion
+euros shrank by ninety-nine point nine
+
+22
+00:01:42,167 --> 00:01:44,677
+eight percent.
+
+23
+00:01:45,427 --> 00:01:50,758
+And how a French court came to decide that
+the bank had helped lose its own money.
+
+24
+00:01:52,528 --> 00:01:56,039
+He grew up in Pont-l'Abbé,
+a small town in Brittany.
+
+25
+00:01:56,808 --> 00:02:00,118
+His father was a blacksmith,
+his mother a hairdresser.
+
+26
+00:02:01,021 --> 00:02:04,611
+In two thousand, with a master's
+degree in finance from Lyon,
+
+27
+00:02:05,081 --> 00:02:07,521
+he joined Société Générale.
+
+28
+00:02:07,540 --> 00:02:09,171
+Not on a trading desk.
+
+29
+00:02:09,521 --> 00:02:13,531
+In the middle office, the department
+that checks the traders' work.
+
+30
+00:02:14,620 --> 00:02:16,510
+He spent five years there.
+
+31
+00:02:17,020 --> 00:02:21,599
+The bank would later write that this gave
+him a very good understanding of all of
+
+32
+00:02:21,620 --> 00:02:23,909
+its processing and control procedures.
+
+33
+00:02:25,155 --> 00:02:28,004
+In two thousand five, he
+moved to the other side.
+
+34
+00:02:28,735 --> 00:02:31,814
+He became a junior trader
+on a desk called Delta One,
+
+35
+00:02:31,835 --> 00:02:34,545
+in the bank's equity derivatives business.
+
+36
+00:02:35,550 --> 00:02:38,120
+His job, on paper, was dull.
+
+37
+00:02:39,050 --> 00:02:43,909
+Buy one basket of financial instruments,
+sell another basket that is almost the
+
+38
+00:02:43,930 --> 00:02:47,580
+same, and earn the small
+difference between their prices.
+
+39
+00:02:48,490 --> 00:02:51,120
+Because the two baskets
+cancel each other out,
+
+40
+00:02:51,469 --> 00:02:55,600
+the bank is not supposed to be betting
+on whether markets rise or fall.
+
+41
+00:02:56,718 --> 00:03:01,609
+But the gaps are so small that the trades
+have to be enormous to be worth anything.
+
+42
+00:03:02,338 --> 00:03:06,008
+So nobody on that floor is
+alarmed by very big numbers.
+
+43
+00:03:07,253 --> 00:03:12,113
+For two thousand six, he was reportedly paid
+a salary of seventy-four thousand euros
+
+44
+00:03:12,133 --> 00:03:15,933
+and a bonus of sixty thousand.
+
+45
+00:03:15,953 --> 00:03:18,063
+Modest, by trading-floor standards.
+
+46
+00:03:18,834 --> 00:03:22,473
+People inside the bank later
+described him as not a star.
+
+47
+00:03:22,493 --> 00:03:26,183
+The governor of the Banque
+de France, Christian Noyer,
+
+48
+00:03:26,554 --> 00:03:28,683
+called him a computer genius.
+
+49
+00:03:29,723 --> 00:03:33,234
+What he did have was something
+most traders do not.
+
+50
+00:03:34,103 --> 00:03:37,274
+He knew exactly how the
+people checking him worked,
+
+51
+00:03:37,603 --> 00:03:39,734
+because he had been one of them.
+
+52
+00:03:41,387 --> 00:03:44,516
+According to the bank, the
+trick was simple to describe.
+
+53
+00:03:45,167 --> 00:03:47,157
+The first basket was real.
+
+54
+00:03:47,687 --> 00:03:48,977
+He really bought it.
+
+55
+00:03:49,567 --> 00:03:52,977
+The second basket, the one that
+was supposed to cancel it out,
+
+56
+00:03:53,146 --> 00:03:54,676
+was partly fiction.
+
+57
+00:03:56,008 --> 00:04:00,638
+On the bank's screens, his position
+looked balanced and almost risk free.
+
+58
+00:04:01,468 --> 00:04:06,818
+In reality, he was making a straight bet
+on where European stock markets would go.
+
+59
+00:04:07,750 --> 00:04:11,560
+The bank's account of how he kept
+it hidden reads like a manual.
+
+60
+00:04:12,370 --> 00:04:17,319
+He chose fake trades that moved no cash
+and needed no immediate confirmation.
+
+61
+00:04:18,550 --> 00:04:22,199
+He used other employees'
+computer codes to cancel trades.
+
+62
+00:04:22,810 --> 00:04:24,399
+He falsified documents.
+
+63
+00:04:24,730 --> 00:04:29,689
+And whenever a fake trade drew a question,
+he cancelled it and booked a new one
+
+64
+00:04:29,709 --> 00:04:31,099
+in a different instrument.
+
+65
+00:04:32,124 --> 00:04:36,233
+Bank officials said he closed fake
+trades within two or three days,
+
+66
+00:04:36,344 --> 00:04:40,904
+just before the timed checks would flag
+them, and then rolled the position into
+
+67
+00:04:40,924 --> 00:04:41,754
+new ones.
+
+68
+00:04:42,624 --> 00:04:47,173
+The chairman, Daniel Bouton,
+compared it to a mutating virus.
+
+69
+00:04:47,903 --> 00:04:52,504
+Outside experts doubted that anyone could
+juggle sums that large on a three-day
+
+70
+00:04:52,524 --> 00:04:54,793
+cycle without somebody noticing.
+
+71
+00:04:55,754 --> 00:04:58,084
+He has never denied exceeding his limits.
+
+72
+00:04:58,774 --> 00:05:01,124
+He has always denied
+that he hid them alone.
+
+73
+00:05:02,074 --> 00:05:06,054
+He told investigators that his
+superiors tolerated what he was doing,
+
+74
+00:05:06,074 --> 00:05:07,884
+as long as it made money.
+
+75
+00:05:08,935 --> 00:05:11,625
+In two thousand seven, the bets grew.
+
+76
+00:05:12,555 --> 00:05:16,156
+Investigators found positions
+of around thirty billion euros,
+
+77
+00:05:16,175 --> 00:05:20,425
+against a reported limit of one
+hundred twenty-five million.
+
+78
+00:05:21,514 --> 00:05:25,764
+On a chart drawn to scale,
+the limit is barely a line.
+
+79
+00:05:26,800 --> 00:05:30,650
+By the summer, the bets were
+down two point two billion.
+
+80
+00:05:31,560 --> 00:05:35,590
+By New Year's Eve, they were
+up one point four billion.
+
+81
+00:05:36,620 --> 00:05:42,070
+By his own account, he hid that profit too,
+and declared about sixty million instead.
+
+82
+00:05:42,901 --> 00:05:46,690
+He reportedly hoped for a bonus
+of six hundred thousand euros.
+
+83
+00:05:47,831 --> 00:05:53,951
+The bank's own internal inquiry later counted
+seventy-four alerts about his activity
+
+84
+00:05:53,971 --> 00:05:56,540
+that managers failed to follow up.
+
+85
+00:05:57,437 --> 00:06:01,926
+Then, in January two thousand
+eight, he turned the bet around.
+
+86
+00:06:02,797 --> 00:06:06,177
+He was now wagering that
+European markets would go up.
+
+87
+00:06:06,197 --> 00:06:11,877
+Thirty billion on the Euro Stoxx,
+eighteen billion on Germany's DAX,
+
+88
+00:06:11,896 --> 00:06:14,127
+two billion on London.
+
+89
+00:06:15,817 --> 00:06:17,507
+Markets were about to do the opposite.
+
+90
+00:06:19,456 --> 00:06:24,576
+On that Sunday, the chairman, Daniel
+Bouton, tells the governor of the Banque de
+
+91
+00:06:24,596 --> 00:06:25,396
+France.
+
+92
+00:06:25,915 --> 00:06:27,185
+Then he makes a decision.
+
+93
+00:06:27,936 --> 00:06:32,565
+Close the position as fast as possible,
+and say nothing until it is done.
+
+94
+00:06:33,567 --> 00:06:38,067
+At a board meeting that evening, the
+directors are told only that problems have
+
+95
+00:06:38,086 --> 00:06:43,367
+been found in certain market activities, and
+that the year's results cannot be published
+
+96
+00:06:43,387 --> 00:06:44,187
+yet.
+
+97
+00:06:44,843 --> 00:06:50,333
+Overnight, before Europe even
+opens, Asian markets fall hard.
+
+98
+00:06:51,064 --> 00:06:55,721
+Hong Kong's Hang Seng drops
+around five point four percent.
+
+99
+00:06:56,122 --> 00:07:01,202
+On Monday morning, a single trader at the
+bank starts selling Jérôme Kerviel's position
+
+100
+00:07:01,222 --> 00:07:02,932
+into a falling market.
+
+101
+00:07:04,002 --> 00:07:07,492
+European stock markets lose
+around six percent that day.
+
+102
+00:07:08,281 --> 00:07:12,451
+The bank says it kept its selling to under
+a tenth of the trading in each market,
+
+103
+00:07:12,541 --> 00:07:15,011
+so as not to move prices on its own.
+
+104
+00:07:15,822 --> 00:07:22,084
+On the first day, its share of Euro Stoxx
+futures trading was eight point one percent.
+
+105
+00:07:22,485 --> 00:07:25,435
+Wall Street is closed that
+Monday for a public holiday.
+
+106
+00:07:26,125 --> 00:07:30,235
+On Tuesday, the American central
+bank does something it rarely does.
+
+107
+00:07:30,685 --> 00:07:35,514
+It cuts interest rates in an emergency
+move, before its scheduled meeting.
+
+108
+00:07:36,410 --> 00:07:38,500
+Three quarters of a percentage point.
+
+109
+00:07:39,270 --> 00:07:44,190
+A Federal Reserve spokesperson later said
+the central bank had not known about the
+
+110
+00:07:44,210 --> 00:07:46,560
+French bank's situation when it decided.
+
+111
+00:07:47,779 --> 00:07:50,589
+By Wednesday evening,
+the position is gone.
+
+112
+00:07:51,539 --> 00:07:52,409
+So is the money.
+
+113
+00:07:53,159 --> 00:07:57,869
+The bank puts the final loss at
+four point nine billion euros.
+
+114
+00:07:59,011 --> 00:08:01,381
+And that figure is already a net number.
+
+115
+00:08:02,211 --> 00:08:06,821
+According to the investigation, selling his
+bets lost about six point three billion.
+
+116
+00:08:07,631 --> 00:08:12,311
+The bank subtracted the one point four
+billion he had made in two thousand seven,
+
+117
+00:08:12,331 --> 00:08:14,401
+which it had already counted as profit.
+
+118
+00:08:14,871 --> 00:08:19,380
+So the gain he had hidden ended up
+making the headline loss smaller.
+
+119
+00:08:20,274 --> 00:08:23,463
+The chairman's defence was that
+waiting would have been worse.
+
+120
+00:08:24,254 --> 00:08:29,374
+If a war had broken out on Monday, he said,
+or if markets had fallen thirty percent,
+
+121
+00:08:29,394 --> 00:08:31,783
+the bank risked the worst.
+
+122
+00:08:32,374 --> 00:08:35,244
+Had the market learned of the
+position first, he argued,
+
+123
+00:08:36,014 --> 00:08:40,103
+traders could have bet against it, and the
+loss could have been ten times bigger.
+
+124
+00:08:41,118 --> 00:08:44,988
+On Thursday, before the markets
+open, the bank tells the world.
+
+125
+00:08:45,598 --> 00:08:49,858
+In the same announcement it reports heavy
+losses on American mortgage investments,
+
+126
+00:08:49,878 --> 00:08:53,108
+and it will soon need
+billions in new capital.
+
+127
+00:08:54,114 --> 00:08:58,864
+The chairman calls the trader a
+crook, a fraudster and a terrorist.
+
+128
+00:09:00,004 --> 00:09:02,594
+Newspapers speculate that
+the trader has fled.
+
+129
+00:09:03,264 --> 00:09:04,063
+He has not.
+
+130
+00:09:04,923 --> 00:09:08,333
+On Saturday the twenty-sixth, he
+presents himself to the police.
+
+131
+00:09:09,331 --> 00:09:12,581
+Two days later, he is charged
+with breach of trust,
+
+132
+00:09:12,850 --> 00:09:16,640
+forgery, and illegally entering
+data into the bank's computers.
+
+133
+00:09:17,610 --> 00:09:22,660
+The investigating judges refuse the
+prosecutor's request to add attempted fraud.
+
+134
+00:09:23,171 --> 00:09:26,081
+And there is one thing
+he is not accused of.
+
+135
+00:09:26,431 --> 00:09:29,400
+Putting a single euro in his own pocket.
+
+136
+00:09:30,453 --> 00:09:32,823
+The judges let him go
+home under supervision.
+
+137
+00:09:33,613 --> 00:09:37,363
+The prosecutors appeal, arguing
+he might contact accomplices,
+
+138
+00:09:37,853 --> 00:09:41,383
+which is odd, because the
+bank insists he acted alone.
+
+139
+00:09:42,453 --> 00:09:46,573
+On the eve of the hearing, a broker
+he had texted is taken into custody,
+
+140
+00:09:46,593 --> 00:09:48,943
+and the messages leak to the press.
+
+141
+00:09:49,493 --> 00:09:52,743
+The appeal court sends
+Kerviel to La Santé prison.
+
+142
+00:09:53,373 --> 00:09:56,073
+The broker is released and never charged.
+
+143
+00:09:56,093 --> 00:10:01,543
+Kerviel spends about six weeks behind
+bars before he is let out again.
+
+144
+00:10:03,341 --> 00:10:05,691
+The regulators look at the bank too.
+
+145
+00:10:06,701 --> 00:10:12,461
+In July two thousand eight, France's banking
+commission fines Société Générale four
+
+146
+00:10:12,480 --> 00:10:18,341
+million euros, citing serious failures in
+its internal controls that lasted through
+
+147
+00:10:18,360 --> 00:10:20,812
+the whole of two thousand seven.
+
+148
+00:10:21,212 --> 00:10:25,962
+The chairman and the head of investment
+banking both eventually leave their posts.
+
+149
+00:10:26,772 --> 00:10:27,882
+The bank survives.
+
+150
+00:10:29,006 --> 00:10:33,606
+His trial opens in Paris
+in June two thousand ten.
+
+151
+00:10:33,626 --> 00:10:37,826
+On the fifth of October, the
+presiding judge, Dominique Pauthe,
+
+152
+00:10:37,846 --> 00:10:40,176
+reads the verdict to a packed room.
+
+153
+00:10:41,120 --> 00:10:43,630
+Through his deliberate
+actions, the court says,
+
+154
+00:10:43,900 --> 00:10:49,450
+he endangered the solvency of a bank that
+employed one hundred forty thousand people,
+
+155
+00:10:49,780 --> 00:10:51,010
+including himself.
+
+156
+00:10:51,941 --> 00:10:56,041
+It finds that none of his bosses would
+have allowed bets bigger than the bank's
+
+157
+00:10:56,061 --> 00:10:57,050
+own capital.
+
+158
+00:10:57,540 --> 00:11:02,740
+His actions, the ruling says, without a
+doubt threatened the public order of the
+
+159
+00:11:02,760 --> 00:11:03,730
+world economy.
+
+160
+00:11:04,890 --> 00:11:08,420
+Five years in prison,
+two of them suspended.
+
+161
+00:11:09,130 --> 00:11:12,050
+And damages equal to
+the bank's entire loss.
+
+162
+00:11:12,070 --> 00:11:15,600
+Four point nine billion euros.
+
+163
+00:11:16,530 --> 00:11:20,040
+He is also banned from
+working in finance for life.
+
+164
+00:11:20,859 --> 00:11:24,179
+By then he was working as
+a computer consultant,
+
+165
+00:11:24,199 --> 00:11:28,168
+for about two thousand three
+hundred euros a month.
+
+166
+00:11:29,303 --> 00:11:32,873
+His lawyer says his client is
+paying for an entire system.
+
+167
+00:11:33,663 --> 00:11:38,093
+Then he tells the reporters outside that
+he hopes they will all donate a euro.
+
+168
+00:11:39,235 --> 00:11:42,345
+The bank's spokeswoman
+calls the damages symbolic.
+
+169
+00:11:43,335 --> 00:11:45,284
+Nobody expects the money to be paid.
+
+170
+00:11:46,240 --> 00:11:51,620
+The obvious comparison was Nick Leeson,
+whose unauthorised trades in Singapore lost
+
+171
+00:11:51,639 --> 00:11:57,300
+more than a billion dollars and sank
+Barings Bank in nineteen ninety-five.
+
+172
+00:11:57,320 --> 00:11:59,429
+Leeson served three and a half years.
+
+173
+00:12:00,180 --> 00:12:04,920
+His agent let it be known that Leeson
+would give one exclusive interview on the
+
+174
+00:12:04,940 --> 00:12:05,840
+Kerviel verdict.
+
+175
+00:12:05,860 --> 00:12:07,210
+For a fee.
+
+176
+00:12:08,058 --> 00:12:13,008
+In October two thousand twelve, the Paris
+court of appeal confirms everything.
+
+177
+00:12:13,558 --> 00:12:14,668
+The prison term.
+
+178
+00:12:14,899 --> 00:12:16,488
+The four point nine billion.
+
+179
+00:12:17,525 --> 00:12:22,826
+Then, in March two thousand fourteen,
+France's highest court splits the case in
+
+180
+00:12:22,846 --> 00:12:23,645
+two.
+
+181
+00:12:23,985 --> 00:12:25,335
+The conviction stands.
+
+182
+00:12:25,625 --> 00:12:27,075
+The damages do not.
+
+183
+00:12:27,685 --> 00:12:31,015
+The bank, the judges find,
+made its own mistakes,
+
+184
+00:12:31,365 --> 00:12:35,455
+and those mistakes helped the fraud
+grow and helped cause the loss.
+
+185
+00:12:36,085 --> 00:12:39,015
+So he cannot simply be
+made to pay for all of it.
+
+186
+00:12:39,948 --> 00:12:43,778
+A month earlier, he had spoken
+briefly with Pope Francis in Rome.
+
+187
+00:12:44,688 --> 00:12:49,769
+Afterwards he set off back to France on
+foot, as a protest against what he called
+
+188
+00:12:49,788 --> 00:12:51,698
+the tyranny of the markets.
+
+189
+00:12:52,804 --> 00:12:57,034
+In May, at the Italian border, he
+is arrested to serve his sentence.
+
+190
+00:12:58,184 --> 00:13:01,314
+He is held at Fleury-Mérogis,
+south of Paris.
+
+191
+00:13:02,064 --> 00:13:04,924
+On the eighth of September
+two thousand fourteen,
+
+192
+00:13:04,944 --> 00:13:08,314
+after a total of one hundred
+fifty days behind bars,
+
+193
+00:13:08,824 --> 00:13:10,874
+he leaves with an electronic tag.
+
+194
+00:13:12,681 --> 00:13:18,171
+In January two thousand sixteen, the case
+cracks open from an unexpected side.
+
+195
+00:13:19,181 --> 00:13:24,121
+French media publish a secretly recorded
+conversation with a former deputy prosecutor
+
+196
+00:13:24,141 --> 00:13:26,291
+who had worked on the investigation.
+
+197
+00:13:27,221 --> 00:13:30,911
+In it, she says the inquiry
+was steered by the bank.
+
+198
+00:13:31,480 --> 00:13:36,241
+A former commander of the financial police
+who had worked on the case also voices
+
+199
+00:13:36,261 --> 00:13:37,901
+doubts about the bank's account.
+
+200
+00:13:37,921 --> 00:13:43,350
+In June two thousand sixteen,
+something strange happens.
+
+201
+00:13:43,841 --> 00:13:49,441
+A Paris labour tribunal rules that the
+bank fired him without genuine or serious
+
+202
+00:13:49,461 --> 00:13:54,211
+cause, and orders it to pay him around
+four hundred fifty thousand euros.
+
+203
+00:13:55,181 --> 00:13:58,630
+The bank calls the ruling
+scandalous, and appeals.
+
+204
+00:13:59,764 --> 00:14:04,793
+Three months later, the appeal court in
+Versailles rules on what he really owes.
+
+205
+00:14:05,563 --> 00:14:08,153
+It finds him partly
+responsible for the loss.
+
+206
+00:14:08,584 --> 00:14:13,104
+But it says the loss could not have happened
+without the bank's woefully inadequate
+
+207
+00:14:13,124 --> 00:14:13,923
+oversight.
+
+208
+00:14:14,895 --> 00:14:18,325
+The new figure is one million euros.
+
+209
+00:14:19,346 --> 00:14:24,606
+His lawyer, David Koubbi, says the court
+has wiped out ninety-nine point nine eight
+
+210
+00:14:24,626 --> 00:14:25,787
+percent of the sum.
+
+211
+00:14:25,807 --> 00:14:30,256
+Kerviel says he still believes
+he owes the bank nothing.
+
+212
+00:14:31,321 --> 00:14:33,331
+There is another number in this story.
+
+213
+00:14:33,681 --> 00:14:38,961
+Because the bank recorded the loss, the
+French state granted it a tax break of about
+
+214
+00:14:38,980 --> 00:14:41,291
+two point two billion euros.
+
+215
+00:14:42,061 --> 00:14:47,121
+The Versailles ruling did not change that,
+and critics later took the tax break
+
+216
+00:14:47,141 --> 00:14:47,941
+to court.
+
+217
+00:14:48,868 --> 00:14:52,498
+Two years later, the courts
+close the doors he had opened.
+
+218
+00:14:53,168 --> 00:14:58,248
+In September two thousand eighteen, France's
+court of review rejects his bid for
+
+219
+00:14:58,268 --> 00:14:59,677
+a new criminal trial.
+
+220
+00:15:00,348 --> 00:15:05,468
+It calls a former police investigator's
+doubts about the case impressions that rest
+
+221
+00:15:05,488 --> 00:15:07,038
+on nothing precise.
+
+222
+00:15:07,548 --> 00:15:11,358
+In December, an appeal court
+overturns the labour tribunal.
+
+223
+00:15:11,848 --> 00:15:14,148
+The firing was justified after all.
+
+224
+00:15:14,168 --> 00:15:20,568
+In March two thousand twenty-one, France's
+highest court rejects his last appeal
+
+225
+00:15:20,588 --> 00:15:21,598
+on that point.
+
+226
+00:15:22,576 --> 00:15:23,785
+He has not stopped.
+
+227
+00:15:24,656 --> 00:15:29,676
+In late two thousand twenty-four, a
+four-part documentary series brings him back
+
+228
+00:15:29,696 --> 00:15:33,245
+in front of the cameras, alongside
+the bank's former chairman.
+
+229
+00:15:34,255 --> 00:15:39,456
+A few weeks later, on French television,
+he says he has new evidence and intends
+
+230
+00:15:39,475 --> 00:15:43,346
+to ask, once again, for
+his trial to be reopened.
+
+231
+00:15:44,534 --> 00:15:45,804
+So here is the account.
+
+232
+00:15:46,554 --> 00:15:49,004
+A hidden bet of fifty billion euros.
+
+233
+00:15:49,615 --> 00:15:51,724
+A loss of four point nine billion.
+
+234
+00:15:52,334 --> 00:15:54,204
+A first bill for all of it.
+
+235
+00:15:54,694 --> 00:15:56,554
+A final bill of one million.
+
+236
+00:15:56,574 --> 00:15:59,864
+One hundred fifty days behind bars.
+
+237
+00:16:00,475 --> 00:16:04,004
+And a tax break for the bank
+of two point two billion.
+
+238
+00:16:05,008 --> 00:16:10,298
+His conviction for breach of trust,
+forgery and computer offences is final.
+
+239
+00:16:10,968 --> 00:16:12,217
+So is the one million.
+
+240
+00:16:12,828 --> 00:16:15,358
+He has kept saying that
+his superiors knew.
+
+241
+00:16:16,028 --> 00:16:18,138
+No court has found that they did.
+
+242
+00:16:19,118 --> 00:16:23,988
+But the last court to put a price on that
+January did not put it on him alone.
+
+243
+00:16:24,698 --> 00:16:29,588
+It put most of it on the bank that let a
+junior trader bet more than it was worth,
+
+244
+00:16:29,938 --> 00:16:33,668
+and did not notice until a
+confirmation e-mail looked wrong.
