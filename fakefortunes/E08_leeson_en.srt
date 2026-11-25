@@ -1,0 +1,1146 @@
+1
+00:00:00,250 --> 00:00:04,190
+In the last week of January
+nineteen ninety-five,
+
+2
+00:00:04,209 --> 00:00:09,330
+the auditors of a small futures office in
+Singapore are looking at a hole in its
+
+3
+00:00:09,349 --> 00:00:10,150
+books.
+
+4
+00:00:10,830 --> 00:00:16,690
+It is worth seven point seven billion yen,
+more than a hundred million Singapore
+
+5
+00:00:16,710 --> 00:00:20,359
+dollars, and nobody can
+say where the money went.
+
+6
+00:00:21,196 --> 00:00:23,905
+The office's general
+manager has an explanation.
+
+7
+00:00:24,736 --> 00:00:28,606
+Then he has a second one,
+and a third, and a fourth.
+
+8
+00:00:29,636 --> 00:00:34,975
+In the version the auditors finally accept,
+the money is simply owed by an American
+
+9
+00:00:34,996 --> 00:00:39,286
+brokerage firm, and it will be paid
+back on the second of February.
+
+10
+00:00:40,234 --> 00:00:44,225
+To prove it, he produces a
+fax from the American firm.
+
+11
+00:00:45,314 --> 00:00:50,004
+In the upper right corner of that fax,
+where a sender's name usually sits,
+
+12
+00:00:50,375 --> 00:00:52,884
+it says Nick and Lisa.
+
+13
+00:00:53,935 --> 00:00:57,284
+He had sent it from the fax
+machine in his own apartment.
+
+14
+00:00:58,296 --> 00:01:04,856
+Nick is Nick Leeson, twenty-seven
+years old, the star trader of Barings,
+
+15
+00:01:04,876 --> 00:01:06,847
+Britain's oldest merchant bank.
+
+16
+00:01:08,156 --> 00:01:09,486
+Lisa is his wife.
+
+17
+00:01:10,436 --> 00:01:12,507
+The auditors sign off anyway.
+
+18
+00:01:13,522 --> 00:01:17,462
+Barings had been founded
+in seventeen sixty-two.
+
+19
+00:01:17,482 --> 00:01:22,233
+It had financed the Louisiana Purchase,
+and according to the Associated Press,
+
+20
+00:01:22,703 --> 00:01:25,992
+it counted Queen Elizabeth
+the Second among its clients.
+
+21
+00:01:27,039 --> 00:01:30,569
+Four weeks after that
+fax, the bank was gone.
+
+22
+00:01:31,439 --> 00:01:35,149
+The losses came to eight hundred
+twenty-seven million pounds,
+
+23
+00:01:35,459 --> 00:01:40,219
+about one point three billion dollars,
+twice the capital the bank had available
+
+24
+00:01:40,239 --> 00:01:41,129
+for trading.
+
+25
+00:01:42,069 --> 00:01:47,120
+A Dutch group bought what was
+left of it for one pound.
+
+26
+00:01:47,519 --> 00:01:52,899
+All of those losses had sat in one account,
+an account with a number anyone could
+
+27
+00:01:52,919 --> 00:01:53,719
+remember.
+
+28
+00:01:54,579 --> 00:01:59,759
+And for two and a half years, the people
+sending him the money did not ask what
+
+29
+00:01:59,779 --> 00:02:00,589
+was in it.
+
+30
+00:02:02,227 --> 00:02:05,457
+Nick Leeson grew up on a
+council estate in Watford,
+
+31
+00:02:05,767 --> 00:02:06,567
+north of London.
+
+32
+00:02:07,287 --> 00:02:10,296
+His father was a plasterer,
+his mother a nurse.
+
+33
+00:02:11,127 --> 00:02:15,966
+He left school in nineteen eighty-five
+and got a job as a clerk at Coutts,
+
+34
+00:02:15,986 --> 00:02:17,981
+settling paper cheques.
+
+35
+00:02:18,382 --> 00:02:23,852
+Two years later he moved to the futures
+and options back office at Morgan Stanley,
+
+36
+00:02:24,382 --> 00:02:28,252
+where the job was clearing and
+settling trades other people made.
+
+37
+00:02:29,421 --> 00:02:34,822
+In nineteen eighty-nine he joined Barings,
+on a salary of twelve thousand pounds
+
+38
+00:02:34,842 --> 00:02:35,812
+a year.
+
+39
+00:02:36,786 --> 00:02:40,676
+Barings sent him to Jakarta to
+sort out its back office there,
+
+40
+00:02:41,105 --> 00:02:46,085
+a pile of unpaid share certificates
+worth about a hundred million pounds.
+
+41
+00:02:46,105 --> 00:02:49,855
+In Jakarta he met a
+colleague named Lisa Sims.
+
+42
+00:02:50,786 --> 00:02:53,861
+They married in March nineteen ninety-two.
+
+43
+00:02:54,260 --> 00:02:58,780
+That same year, regulators in Britain
+refused him a broker's licence,
+
+44
+00:02:58,800 --> 00:03:03,730
+because his application had left out
+a court judgment for an unpaid debt.
+
+45
+00:03:04,721 --> 00:03:09,971
+When he applied for a licence in Singapore,
+neither he nor Barings mentioned it.
+
+46
+00:03:11,051 --> 00:03:16,311
+In April nineteen ninety-two, Barings
+decided to start trading on the Singapore
+
+47
+00:03:16,331 --> 00:03:20,141
+International Monetary
+Exchange, known as SIMEX.
+
+48
+00:03:20,852 --> 00:03:23,382
+It sent Leeson out as general manager.
+
+49
+00:03:24,420 --> 00:03:27,230
+The business was meant
+to be almost boring.
+
+50
+00:03:27,881 --> 00:03:33,270
+The same Japanese stock market contract,
+the Nikkei two-two-five future,
+
+51
+00:03:33,580 --> 00:03:39,371
+traded in Osaka and in Singapore, and
+the prices sometimes differed by a hair.
+
+52
+00:03:40,161 --> 00:03:44,170
+Buy in one place, sell in the
+other, keep the difference.
+
+53
+00:03:45,221 --> 00:03:47,191
+Almost no risk.
+
+54
+00:03:48,495 --> 00:03:51,885
+But Leeson was put in charge
+of both sides of the office.
+
+55
+00:03:52,615 --> 00:03:57,275
+He ran the traders on the floor, and he ran
+the back office that recorded what they
+
+56
+00:03:57,295 --> 00:03:58,095
+did.
+
+57
+00:03:58,495 --> 00:04:02,865
+The man placing the bets was
+also the man keeping score.
+
+58
+00:04:03,867 --> 00:04:08,827
+Years later, in his memoir, he described
+the feeling of finally getting out of the
+
+59
+00:04:08,847 --> 00:04:10,858
+back office and onto the floor.
+
+60
+00:04:11,768 --> 00:04:16,337
+The money, he wrote, was hanging
+in the air right in front of him,
+
+61
+00:04:16,707 --> 00:04:21,617
+invisible but highly charged,
+just waiting to be earthed.
+
+62
+00:04:23,367 --> 00:04:28,667
+Every trading office has an error account,
+a place to park the small mistakes that
+
+63
+00:04:28,687 --> 00:04:32,137
+happen when people shout
+orders across a crowded floor.
+
+64
+00:04:33,027 --> 00:04:37,036
+In July nineteen ninety-two,
+Leeson's office got one.
+
+65
+00:04:37,826 --> 00:04:41,957
+Its number was eight
+eight eight eight eight.
+
+66
+00:04:42,357 --> 00:04:46,887
+By his own account, the first thing he
+hid there was a junior trader's slip.
+
+67
+00:04:47,437 --> 00:04:51,206
+An order for twenty contracts
+went through the wrong way round,
+
+68
+00:04:51,557 --> 00:04:53,867
+and it cost twenty thousand pounds.
+
+69
+00:04:55,137 --> 00:04:57,966
+Instead of reporting it, he parked it.
+
+70
+00:04:58,903 --> 00:05:00,473
+Then came a bigger one.
+
+71
+00:05:01,043 --> 00:05:06,353
+In his telling, he forgot to reconcile a
+discrepancy of five hundred contracts,
+
+72
+00:05:06,603 --> 00:05:10,463
+and it cost one point
+seven million dollars.
+
+73
+00:05:10,483 --> 00:05:14,853
+That, he later said, was when
+he crossed into real crime,
+
+74
+00:05:15,463 --> 00:05:19,293
+because the only way to keep
+his job was to hide it too.
+
+75
+00:05:20,288 --> 00:05:23,398
+Then he started trading
+with the bank's own money,
+
+76
+00:05:23,889 --> 00:05:26,398
+betting on where the
+Japanese market would go.
+
+77
+00:05:27,368 --> 00:05:33,869
+When a bet lost, he hid the loss in eight
+eight eight eight eight and bet bigger
+
+78
+00:05:33,889 --> 00:05:34,829
+to win it back.
+
+79
+00:05:34,848 --> 00:05:38,878
+Every loss made the next bet bigger.
+
+80
+00:05:39,963 --> 00:05:44,944
+By the end of nineteen ninety-two, the
+account held more than two million pounds
+
+81
+00:05:44,963 --> 00:05:45,893
+in losses.
+
+82
+00:05:46,944 --> 00:05:50,733
+By the end of nineteen ninety-three,
+about twenty-three million.
+
+83
+00:05:51,743 --> 00:05:56,453
+By the end of nineteen ninety-four,
+more than two hundred million.
+
+84
+00:05:57,684 --> 00:06:00,754
+And yet, on paper, he was a sensation.
+
+85
+00:06:01,704 --> 00:06:07,054
+In nineteen ninety-three, his desk was
+credited with more than ten million pounds,
+
+86
+00:06:07,604 --> 00:06:10,074
+about a tenth of the whole bank's profit.
+
+87
+00:06:10,864 --> 00:06:13,874
+His salary was fifty thousand pounds.
+
+88
+00:06:14,344 --> 00:06:17,314
+His bonus was a hundred
+and thirty thousand.
+
+89
+00:06:18,238 --> 00:06:22,588
+According to the inquiry, as summarised
+by Australia's central bank,
+
+90
+00:06:23,158 --> 00:06:27,718
+more than sixty percent of the revenue of
+Barings' worldwide derivatives business
+
+91
+00:06:27,738 --> 00:06:32,888
+was being generated out of Leeson's
+supposedly riskless trading.
+
+92
+00:06:33,998 --> 00:06:39,708
+Nobody in London asked how a strategy
+with almost no risk could earn that much.
+
+93
+00:06:41,041 --> 00:06:43,791
+The trick, according to
+the Singapore inspectors,
+
+94
+00:06:44,121 --> 00:06:45,031
+was timing.
+
+95
+00:06:46,001 --> 00:06:50,721
+At the end of each month, his settlement
+staff booked entries that made the account
+
+96
+00:06:50,741 --> 00:06:53,771
+look empty, and reversed them afterwards.
+
+97
+00:06:54,741 --> 00:07:00,101
+He also sold options at month-end, collecting
+premiums to cover the hole for the
+
+98
+00:07:00,121 --> 00:07:01,731
+day the report was printed.
+
+99
+00:07:02,574 --> 00:07:03,604
+There were warnings.
+
+100
+00:07:04,474 --> 00:07:09,694
+In September nineteen ninety-three, the
+exchange itself wrote to Barings listing
+
+101
+00:07:09,714 --> 00:07:14,254
+fifteen breaches of its rules, and attached
+a trade ticket from account eight eight
+
+102
+00:07:14,274 --> 00:07:16,765
+eight eight eight.
+
+103
+00:07:17,165 --> 00:07:22,725
+In nineteen ninety-four, the bank's own
+internal auditors recommended that he should
+
+104
+00:07:22,745 --> 00:07:24,715
+no longer run the back office.
+
+105
+00:07:25,846 --> 00:07:27,875
+Barings did not implement it.
+
+106
+00:07:28,529 --> 00:07:30,819
+The biggest warning was the money.
+
+107
+00:07:31,809 --> 00:07:35,039
+Leeson's losses had to be covered
+with cash at the exchange,
+
+108
+00:07:35,309 --> 00:07:37,399
+and he got that cash from London.
+
+109
+00:07:38,369 --> 00:07:41,039
+London believed it was
+lending to his clients.
+
+110
+00:07:41,689 --> 00:07:47,149
+By the account of the inquiry, Barings was
+apparently lending more than three hundred
+
+111
+00:07:47,169 --> 00:07:52,799
+million pounds to clients, against
+collateral of about thirty-one million.
+
+112
+00:07:53,935 --> 00:07:57,596
+Three days after Christmas
+nineteen ninety-four,
+
+113
+00:07:57,615 --> 00:08:02,576
+a clerk in London's settlements department
+wrote that the best case was a spreadsheet
+
+114
+00:08:02,596 --> 00:08:03,396
+error.
+
+115
+00:08:03,895 --> 00:08:08,065
+The worst case, he wrote,
+was that it's plain rubbish.
+
+116
+00:08:09,415 --> 00:08:11,165
+The money kept going.
+
+117
+00:08:13,043 --> 00:08:18,563
+By January nineteen ninety-five, one of
+his biggest positions was a bet that the
+
+118
+00:08:18,583 --> 00:08:20,853
+Japanese market would stay calm.
+
+119
+00:08:21,663 --> 00:08:24,112
+It is called a short straddle.
+
+120
+00:08:24,763 --> 00:08:35,363
+He collects money up front, and he keeps
+it as long as the Nikkei barely moves.
+
+121
+00:08:35,383 --> 00:08:36,182
+If it moves a lot, in either
+direction, the losses have no ceiling.
+
+122
+00:08:37,067 --> 00:08:41,137
+At five forty-six in the morning
+on the seventeenth of January,
+
+123
+00:08:41,827 --> 00:08:47,277
+an earthquake of magnitude six point
+nine struck the area around Kobe.
+
+124
+00:08:48,467 --> 00:08:51,117
+At least five thousand people died.
+
+125
+00:08:52,294 --> 00:08:53,804
+Highways collapsed.
+
+126
+00:08:54,514 --> 00:08:56,004
+Whole districts burned.
+
+127
+00:08:57,014 --> 00:09:00,375
+In the days that followed, the
+Japanese stock market fell,
+
+128
+00:09:00,394 --> 00:09:02,264
+at times sharply.
+
+129
+00:09:03,219 --> 00:09:08,548
+A trader with a calm-market bet now
+had the opposite of a calm market.
+
+130
+00:09:09,499 --> 00:09:11,489
+Leeson did not close the position.
+
+131
+00:09:12,139 --> 00:09:16,749
+He bought Nikkei futures instead,
+enormous amounts of them,
+
+132
+00:09:16,979 --> 00:09:21,869
+betting that the market would bounce back
+quickly and take his losses with it.
+
+133
+00:09:22,503 --> 00:09:24,793
+For a moment, it nearly worked.
+
+134
+00:09:25,802 --> 00:09:29,432
+According to the Reserve Bank of
+Australia's summary of the British inquiry,
+
+135
+00:09:29,903 --> 00:09:34,503
+at one point in early February he had
+recovered the losses he had made since the
+
+136
+00:09:34,523 --> 00:09:35,593
+start of the year.
+
+137
+00:09:36,062 --> 00:09:42,723
+Then, in the last two weeks of February,
+every market he was in turned against him
+
+138
+00:09:42,743 --> 00:09:43,673
+at once.
+
+139
+00:09:44,682 --> 00:09:48,192
+The requests to London
+grew with every move.
+
+140
+00:09:49,022 --> 00:09:53,362
+At the end of nineteen ninety-four, his
+office had received about three hundred
+
+141
+00:09:53,382 --> 00:09:55,211
+fifty million dollars.
+
+142
+00:09:56,042 --> 00:10:01,631
+By the twenty-fourth of February, the figure
+stood at one point one eight billion.
+
+143
+00:10:02,302 --> 00:10:06,772
+About a billion Singapore dollars went
+out in the last three weeks alone.
+
+144
+00:10:07,740 --> 00:10:10,650
+These were the same weeks
+as the hole in the books,
+
+145
+00:10:11,081 --> 00:10:14,810
+the four stories and the fax
+that said Nick and Lisa.
+
+146
+00:10:15,961 --> 00:10:20,230
+On the third of February, the auditors
+forwarded their clearance to London.
+
+147
+00:10:21,280 --> 00:10:25,880
+When some managers there grew worried, they
+were told the matter was being handled
+
+148
+00:10:25,900 --> 00:10:27,410
+at the highest levels.
+
+149
+00:10:28,590 --> 00:10:32,940
+London had even set up an internal
+review of the Singapore funding.
+
+150
+00:10:33,730 --> 00:10:36,259
+It was called the Singapore Project.
+
+151
+00:10:37,550 --> 00:10:41,000
+Leeson took it over, and
+ended it with a vague memo.
+
+152
+00:10:41,957 --> 00:10:48,077
+By the end, the money sent to one office
+in Singapore was twice the capital of the
+
+153
+00:10:48,097 --> 00:10:49,687
+entire Barings group.
+
+154
+00:10:50,817 --> 00:10:52,767
+There was nothing left to send.
+
+155
+00:10:54,711 --> 00:11:00,291
+On Thursday the twenty-third of February,
+Nick and Lisa Leeson left their luxury
+
+156
+00:11:00,311 --> 00:11:01,721
+apartment in Singapore.
+
+157
+00:11:02,551 --> 00:11:05,081
+The laundry was still
+drying on the balcony.
+
+158
+00:11:05,951 --> 00:11:07,280
+He left a note behind.
+
+159
+00:11:07,911 --> 00:11:10,061
+It said I'm sorry.
+
+160
+00:11:11,013 --> 00:11:16,713
+They drove across the border into Malaysia,
+then went on to a resort in Kota Kinabalu,
+
+161
+00:11:16,733 --> 00:11:21,562
+on the island of Borneo, almost
+fifteen hundred kilometres away.
+
+162
+00:11:22,572 --> 00:11:26,719
+On the twenty-fifth of February,
+he turned twenty-eight.
+
+163
+00:11:27,119 --> 00:11:30,989
+That weekend, the Bank of England
+tried to arrange a rescue.
+
+164
+00:11:31,739 --> 00:11:32,538
+It failed.
+
+165
+00:11:33,538 --> 00:11:38,119
+The Chancellor, Kenneth Clarke, said it
+would have been wrong to use public money
+
+166
+00:11:38,139 --> 00:11:40,087
+to save Barings.
+
+167
+00:11:40,488 --> 00:11:45,677
+On Sunday the twenty-sixth of February,
+Barings was declared insolvent.
+
+168
+00:11:46,408 --> 00:11:51,588
+A bank that had survived wars, revolutions
+and its own near-collapse in eighteen
+
+169
+00:11:51,608 --> 00:11:56,498
+ninety was finished by one
+office and one account.
+
+170
+00:11:57,375 --> 00:12:00,375
+On Tuesday, according to the
+Malaysian Daily Express,
+
+171
+00:12:00,395 --> 00:12:05,475
+Leeson walked into the Royal Brunei
+Airlines office in Kota Kinabalu,
+
+172
+00:12:05,495 --> 00:12:08,025
+asked for the next
+available flight to Europe,
+
+173
+00:12:08,275 --> 00:12:10,925
+and paid fifteen hundred dollars in cash.
+
+174
+00:12:11,772 --> 00:12:17,272
+The plane left on Wednesday night, before
+Malaysian immigration could act on a police
+
+175
+00:12:17,292 --> 00:12:18,742
+request to hold him.
+
+176
+00:12:19,592 --> 00:12:24,772
+It stopped in Bangkok, where a newspaper
+editor phoned the airport and tried to
+
+177
+00:12:24,792 --> 00:12:25,591
+have it held.
+
+178
+00:12:26,472 --> 00:12:32,852
+The duty manager told him, please don't
+ask me to go to the runway and try to stop
+
+179
+00:12:32,872 --> 00:12:33,672
+the plane.
+
+180
+00:12:34,683 --> 00:12:39,274
+Early on Thursday the second of
+March, the plane landed in Frankfurt.
+
+181
+00:12:40,243 --> 00:12:43,624
+German police carrying photographs
+of the couple came on board.
+
+182
+00:12:43,644 --> 00:12:46,493
+Leeson was taken into custody.
+
+183
+00:12:47,403 --> 00:12:50,133
+Lisa was released and
+flew home to Britain.
+
+184
+00:12:51,181 --> 00:12:56,151
+He told the police, again and again,
+that he wanted to go back to Britain.
+
+185
+00:12:57,240 --> 00:12:59,230
+Singapore wanted him back first.
+
+186
+00:13:00,346 --> 00:13:05,015
+His newly hired German lawyer said
+he had spoken to Leeson's parents.
+
+187
+00:13:05,745 --> 00:13:08,535
+Asked whether they were happy
+their son had been found,
+
+188
+00:13:08,966 --> 00:13:12,936
+the lawyer paused, and
+answered, I don't think so.
+
+189
+00:13:14,857 --> 00:13:18,587
+He spent nine months in a German
+jail fighting extradition.
+
+190
+00:13:19,637 --> 00:13:24,637
+He gave up after a Singapore investigation
+found fault with senior Barings managers
+
+191
+00:13:24,657 --> 00:13:25,467
+as well.
+
+192
+00:13:26,370 --> 00:13:29,769
+On the twenty-third of November,
+he flew back to Singapore,
+
+193
+00:13:29,789 --> 00:13:33,100
+twelve and a half hours
+on Singapore Airlines.
+
+194
+00:13:34,169 --> 00:13:38,980
+According to the Associated Press,
+the in-flight film was Bad Boys.
+
+195
+00:13:39,629 --> 00:13:43,550
+He walked out at Changi airport in
+a baseball cap turned backwards,
+
+196
+00:13:43,570 --> 00:13:47,819
+and was arrested on eleven
+counts of forgery and cheating.
+
+197
+00:13:48,841 --> 00:13:53,221
+He pleaded guilty to two charges:
+deceiving the bank's auditors,
+
+198
+00:13:53,241 --> 00:13:55,771
+and cheating the Singapore exchange.
+
+199
+00:13:56,881 --> 00:13:59,782
+On the first of December
+nineteen ninety-five,
+
+200
+00:13:59,802 --> 00:14:02,651
+he was sentenced to six and
+a half years in prison.
+
+201
+00:14:03,725 --> 00:14:05,456
+He served it at Changi.
+
+202
+00:14:06,145 --> 00:14:10,576
+Inside, he was diagnosed with
+colon cancer and had surgery.
+
+203
+00:14:11,620 --> 00:14:14,750
+Britain's own inquiry
+did not stop at Leeson.
+
+204
+00:14:15,500 --> 00:14:18,980
+Its report, published in
+July nineteen ninety-five,
+
+205
+00:14:19,000 --> 00:14:22,789
+said the money to fund the losses
+had come mainly from London,
+
+206
+00:14:23,019 --> 00:14:27,250
+with no independent check on
+whether the requests made sense.
+
+207
+00:14:28,240 --> 00:14:33,600
+Its conclusion was that Barings failed
+because a number of people did not do their
+
+208
+00:14:33,620 --> 00:14:34,829
+jobs properly.
+
+209
+00:14:35,851 --> 00:14:40,692
+The same report noted that the Singapore
+auditors had judged the office's controls
+
+210
+00:14:40,711 --> 00:14:41,721
+satisfactory.
+
+211
+00:14:43,072 --> 00:14:47,851
+The Chancellor told Parliament that this
+was not easy to reconcile with one man
+
+212
+00:14:47,871 --> 00:14:50,901
+running both the trading
+and the back office.
+
+213
+00:14:51,812 --> 00:14:54,421
+Leeson himself was invited
+to help the inquiry.
+
+214
+00:14:55,251 --> 00:14:56,051
+He declined.
+
+215
+00:14:57,091 --> 00:15:01,021
+The chairman of the British securities
+regulator put it more simply.
+
+216
+00:15:01,891 --> 00:15:06,682
+Nick Leeson pulled the trigger, he
+said, but Barings gave him the gun,
+
+217
+00:15:07,091 --> 00:15:10,801
+the ammunition, and then more ammunition.
+
+218
+00:15:12,073 --> 00:15:17,653
+In Washington, the head of the American
+futures regulator said the first three lessons
+
+219
+00:15:17,673 --> 00:15:22,103
+of Barings were management
+controls, management controls,
+
+220
+00:15:22,713 --> 00:15:24,343
+and management controls.
+
+221
+00:15:25,539 --> 00:15:31,079
+In Parliament, the opposition's Gordon Brown
+asked why managers still in their jobs
+
+222
+00:15:31,099 --> 00:15:36,289
+had insisted on taking their share of
+ninety-five million pounds in bonuses,
+
+223
+00:15:36,699 --> 00:15:39,069
+while pensioners had lost their savings.
+
+224
+00:15:40,229 --> 00:15:45,869
+Leeson walked out of prison on Saturday
+the third of July nineteen ninety-nine,
+
+225
+00:15:45,889 --> 00:15:50,979
+his sentence cut for good behaviour, and
+was put straight onto a flight to London.
+
+226
+00:15:51,908 --> 00:15:55,538
+The liquidators of Barings
+came with him, in a way.
+
+227
+00:15:56,229 --> 00:16:00,298
+He had to give them two days' written
+notice before spending money.
+
+228
+00:16:01,517 --> 00:16:06,357
+His memoir, Rogue Trader, came
+out in nineteen ninety-six.
+
+229
+00:16:06,377 --> 00:16:12,177
+The New York Times called it a dreary book,
+written by a young man very taken with
+
+230
+00:16:12,197 --> 00:16:17,107
+himself, that ought to be read by banking
+managers and auditors everywhere.
+
+231
+00:16:17,777 --> 00:16:20,507
+It became a film starring Ewan McGregor.
+
+232
+00:16:21,037 --> 00:16:26,497
+In two thousand seven, a SIMEX trading
+jacket thought to be his sold for twenty-one
+
+233
+00:16:26,517 --> 00:16:28,977
+thousand pounds.
+
+234
+00:16:28,997 --> 00:16:35,037
+He became an after-dinner speaker on risk,
+and later an investigator of financial
+
+235
+00:16:35,057 --> 00:16:35,856
+misconduct.
+
+236
+00:16:36,943 --> 00:16:38,413
+So here is the balance.
+
+237
+00:16:39,123 --> 00:16:41,884
+One error account, opened in the
+summer of nineteen ninety-two.
+
+238
+00:16:41,903 --> 00:16:47,543
+Two hundred and eight million pounds
+hidden by the end of nineteen ninety-four.
+
+239
+00:16:47,563 --> 00:16:53,293
+Eight hundred twenty-seven
+million lost by the end.
+
+240
+00:16:53,923 --> 00:16:57,364
+A bank that was two hundred
+and thirty-three years old,
+
+241
+00:16:57,384 --> 00:16:59,493
+sold for one pound.
+
+242
+00:17:00,284 --> 00:17:02,514
+The fraud was not hidden very well.
+
+243
+00:17:02,964 --> 00:17:07,495
+The account had a memorable number,
+the exchange had written about it,
+
+244
+00:17:07,605 --> 00:17:09,815
+and the fax had his name on it.
+
+245
+00:17:10,704 --> 00:17:17,134
+It lasted as long as it did because the
+people paying for it did not want to look.
